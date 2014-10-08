@@ -3,6 +3,9 @@ looper
 
 For those amongst you who don't like idle processors
 
+Returns the number of 'loops' executed for each thread launched which
+should enable you to do interesting comparisons.
+
 ## Configuration
 
 Use the command line flag or the environment variable or none, whatever floats your boat.
