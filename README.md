@@ -18,6 +18,7 @@ Use the command line flag or the environment variable or none, whatever floats y
 * `LOOPER_THREADS` - Number of threads to launch, defaults to 1.
 
 ## Example Output
+```
  $ ./looper -threads=4
   Time     T00       T01       T02       T03         Sum
  00000  19808704  19129752  19707114  19435789  78081359
@@ -35,4 +36,4 @@ Use the command line flag or the environment variable or none, whatever floats y
  00012  27687531  28240213  28256353  28394508 112578605
  00013  28166858  28357275  28028222  28044001 112596356
  00014  28106605  28206714  27857131  28360597 112531047
-
+```
